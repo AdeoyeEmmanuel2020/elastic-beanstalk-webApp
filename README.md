@@ -30,4 +30,4 @@ This project demonstrates automated application deployment and scaling using AWS
 
 **Email:** Emmanuelofgrace@gmail.com
 
-💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/emmanuel-adeoye-29187bb7)
+💼 LinkedIn: [[LinkedIn Profile]](www.linkedin.com/in/emmanuel-adeoye-29187bb7)
