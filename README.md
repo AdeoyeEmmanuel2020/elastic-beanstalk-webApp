@@ -17,14 +17,7 @@ This project demonstrates automated application deployment and scaling using AWS
 3. Upload application code
 4. Configure auto-scaling rules
 
-    ## **👤** Author
-**Adeoye Emmanuel** - Solution Architect
-
-**Email:** Emmanuelofgrace@gmail.com
-
-💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/emmanuel-adeoye-29187bb7)
-
-
+   
 ## 🔗 Full Documentation & Demo
 📚 Complete Project Documentation: [[Notion Page Link]](https://www.notion.so/AWS-Elastic-Beanstalk-Auto-Scaling-Infrastructure-2b1afa903f8a80d78217d05117311bf2?source=copy_link)
 
@@ -32,3 +25,9 @@ This project demonstrates automated application deployment and scaling using AWS
 
 💻 Source Code: [[GitHub Repository Link]](https://github.com/DOTWEB2020/elastic-beanstalk-webApp)
 
+ ## **👤** Author
+**Adeoye Emmanuel** - Solution Architect
+
+**Email:** Emmanuelofgrace@gmail.com
+
+💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/emmanuel-adeoye-29187bb7)
