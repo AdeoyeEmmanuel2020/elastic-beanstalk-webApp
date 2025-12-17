@@ -17,7 +17,7 @@ This project demonstrates automated application deployment and scaling using AWS
 3. Upload application code
 4. Configure auto-scaling rules
 
-🔗 Full Documentation & Demo
+###🔗 Full Documentation & Demo
 📚 Complete Project Documentation: [[Notion Page Link]](https://www.notion.so/AWS-Elastic-Beanstalk-Auto-Scaling-Infrastructure-2b1afa903f8a80d78217d05117311bf2?source=copy_link)
 
 🎥 Video Demonstration: [[Video Demo Link]](https://youtu.be/Z8yBuIpZwtM?si=rR7gQbF-M_jmoU-K)
