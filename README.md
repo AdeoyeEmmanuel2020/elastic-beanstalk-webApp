@@ -1,6 +1,6 @@
 ## **AWS Elastic Beanstalk Auto-Scaling Infrastructure 🚀**
 
------
+
 **Role**: Solution Architect
 
 **Status**: ✅ Architecture Designed & Validated
